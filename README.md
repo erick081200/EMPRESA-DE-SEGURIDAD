@@ -1,2 +1,5 @@
-# EMPRESA-DE-SEGURIDAD
-ESTA ES UNA EMPRESA QUE SE ENCARGA DE CUIDAR LA INFORMACIÓN DE TODOS NUESTROS FIELES CLIENTES
+# empresa-virtual-web
+
+Repositorio de ejemplo con una página HTML simple, archivos de configuración y variables de entorno.
+
+Este repositorio simula una empresa ficticia con malas prácticas de seguridad.
